@@ -1,0 +1,2 @@
+一、打开Tomcat主目录在conf目录下打开server.xml文件找到Connector port并修改port后面的值
+二、Tomcat中Catalina是Tomcat的一个组成部分，是Servlet容器，Coyote是Tomcat的连接器组件
